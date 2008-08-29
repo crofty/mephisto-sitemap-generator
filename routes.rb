@@ -1,0 +1,1 @@
+add_route 'sitemap.xml', :controller => 'sitemap', :action => 'index' 
